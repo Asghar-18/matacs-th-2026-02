@@ -1,1 +1,0 @@
-Temporary GitHub write-access check. This file will be removed.
