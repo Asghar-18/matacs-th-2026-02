@@ -15,7 +15,7 @@ The system assists procurement reviewers; it does not make autonomous award deci
 - [WRITEUP.md](WRITEUP.md) — answers to the five assessment questions.
 - [PROMPTS.md](PROMPTS.md) — prompts for proposal extraction and evidence verification.
 - [ranking.json](ranking.json) — expected ranking of the five sample proposals.
-- [diagram/process-flow.png](diagram/process-flow.png) — process flow from criteria setup and upload through human review.
+- [diagram/process-flow.pdf](diagram/process-flow.png) — process flow from criteria setup and upload through human review.
 
 ## Design principles
 
@@ -40,5 +40,5 @@ matacs-th-2026-02/
 ├── PROMPTS.md
 ├── ranking.json
 └── diagram/
-    └── process-flow.png
+    └── process-flow.pdf
 ```
