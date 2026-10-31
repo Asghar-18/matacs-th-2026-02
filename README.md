@@ -2,7 +2,7 @@
 
 **Candidate:** Asghar Ali  
 **Reference:** MATACS-TH-2026-02  
-**Time spent:** [Replace with your actual time spent before submitting the Google Form]
+**Time spent:** Approximately 4–5 hours
 
 ## Overview
 
