@@ -1,0 +1,70 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 842 595] /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> /Contents 6 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+6 0 obj
+<< /Length 3063 >>
+stream
+0.97 0.98 0.99 rg 0 0 842 595 re f
+0.08 0.13 0.24 rg BT /F2 20 Tf 42 550 Td (MATACS | Proposal Triage Process) Tj ET
+0.32 0.38 0.47 rg BT /F1 9 Tf 42 533 Td (Evidence-grounded evaluation with deterministic scoring and human review) Tj ET
+0.91 0.95 1 rg 42 365 170 105 re f 0.72 0.79 0.88 RG 42 365 170 105 re S
+0.08 0.13 0.24 rg BT /F2 12 Tf 54 440 Td (1. Upload and parse) Tj ET
+0.20 0.25 0.33 rg BT /F1 9 Tf 54 420 Td (PDF / DOCX proposals) Tj 0 -14 Td (Text extraction + page refs) Tj ET
+0.91 0.97 0.94 rg 236 365 170 105 re f 0.72 0.79 0.76 RG 236 365 170 105 re S
+0.08 0.13 0.24 rg BT /F2 12 Tf 248 440 Td (2. AI extraction) Tj ET
+0.20 0.25 0.33 rg BT /F1 9 Tf 248 420 Td (Structured fields + evidence) Tj 0 -14 Td (Unknowns remain null) Tj ET
+1 0.96 0.89 rg 430 365 170 105 re f 0.86 0.77 0.61 RG 430 365 170 105 re S
+0.08 0.13 0.24 rg BT /F2 12 Tf 442 440 Td (3. Rule-based checks) Tj ET
+0.20 0.25 0.33 rg BT /F1 9 Tf 442 420 Td (Mandatory eligibility gates) Tj 0 -14 Td (No inference from missing proof) Tj ET
+0.95 0.93 1 rg 624 365 176 105 re f 0.78 0.73 0.87 RG 624 365 176 105 re S
+0.08 0.13 0.24 rg BT /F2 12 Tf 636 440 Td (4. Deterministic scoring) Tj ET
+0.20 0.25 0.33 rg BT /F1 9 Tf 636 420 Td (Weighted criteria + formulas) Tj 0 -14 Td (Only eligible, scoreable bids) Tj ET
+0.25 0.32 0.42 RG 2 w 212 417 m 232 417 l S 232 417 m 225 421 l 232 417 l 225 413 l S
+0.25 0.32 0.42 RG 406 417 m 426 417 l S 426 417 m 419 421 l 426 417 l 419 413 l S
+0.25 0.32 0.42 RG 600 417 m 620 417 l S 620 417 m 613 421 l 620 417 l 613 413 l S
+1 0.94 0.95 rg 42 235 360 75 re f 0.90 0.70 0.73 RG 42 235 360 75 re S
+0.62 0.07 0.22 rg BT /F2 11 Tf 55 285 Td (HUMAN CHECKPOINT A - Evidence review) Tj ET
+0.20 0.25 0.33 rg BT /F1 9 Tf 55 265 Td (Review extracted claims, source pages, ambiguous or conflicting evidence) Tj ET
+1 0.94 0.95 rg 440 235 360 75 re f 0.90 0.70 0.73 RG 440 235 360 75 re S
+0.62 0.07 0.22 rg BT /F2 11 Tf 453 285 Td (HUMAN CHECKPOINT B - Decision review) Tj ET
+0.20 0.25 0.33 rg BT /F1 9 Tf 453 265 Td (Resolve flags, approve ranking, document rationale before release) Tj ET
+0.91 0.97 0.94 rg 42 85 230 85 re f 0.52 0.79 0.64 RG 42 85 230 85 re S
+0.08 0.35 0.20 rg BT /F2 13 Tf 57 140 Td (RANKED) Tj ET
+0.20 0.25 0.33 rg BT /F1 9 Tf 57 120 Td (Eligible + complete evidence) Tj 0 -14 Td (Numeric score and rank) Tj ET
+1 0.97 0.91 rg 306 85 230 85 re f 0.91 0.77 0.42 RG 306 85 230 85 re S
+0.57 0.29 0.04 rg BT /F2 13 Tf 321 140 Td (FLAGGED) Tj ET
+0.20 0.25 0.33 rg BT /F1 9 Tf 321 120 Td (Potentially eligible; key detail) Tj 0 -14 Td (missing or needs clarification) Tj ET
+1 0.92 0.92 rg 570 85 230 85 re f 0.88 0.63 0.63 RG 570 85 230 85 re S
+0.60 0.10 0.10 rg BT /F2 13 Tf 585 140 Td (INELIGIBLE) Tj ET
+0.20 0.25 0.33 rg BT /F1 9 Tf 585 120 Td (Mandatory requirement failed) Tj 0 -14 Td (or bidder qualification unproven) Tj ET
+0.35 0.40 0.48 rg BT /F1 8 Tf 42 42 Td (AI assists with extraction and evidence organization; mandatory checks and scoring remain explicit, reproducible rules.) Tj ET
+BT /F1 8 Tf 730 42 Td (MATACS-TH-2026-02) Tj ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000000321 00000 n 
+0000000396 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+3510
+%%EOF
